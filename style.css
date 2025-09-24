@@ -98,7 +98,7 @@ padding-left: 0;
 
 
 #portfolio li {
-background: #fff;
+background: #f76a6a;
 padding: 10px;
 border-radius: 10px;
 margin-bottom: 10px;
@@ -112,5 +112,5 @@ background: #eee;
 
 #portfolio a {
 text-decoration: none;
-color: #454545;
+color: #000000;
 }
